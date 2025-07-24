@@ -1,13 +1,13 @@
-<h1 align="center">Blockscout</h1>
-<p align="center">Blockchain Explorer for inspecting and analyzing EVM Chains.</p>
-<div align="center">
+<h1 align="center">Blockscout</h1>{{Mr.Manit Samang}}
+<p align="center">Blockchain Explorer for inspecting and analyzing EVM Chains.</p>[มานิตย์ สำอาง]
+<div align="center">#1_Wallet:Mr.Manit Samang_0947924008\
 
 [![Blockscout](https://github.com/blockscout/blockscout/actions/workflows/config.yml/badge.svg)](https://github.com/blockscout/blockscout/actions)
 [![Discord](https://dcbadge.vercel.app/api/server/blockscout?style=flat)](https://discord.gg/blockscout)
 
-</div>
+</div>[Mr.Manit Samang]Thailand 
 
-
+<\lnc>Th[มานิตย์ สำอาง]
 Blockscout provides a comprehensive, easy-to-use interface for users to view, confirm, and inspect transactions on EVM (Ethereum Virtual Machine) blockchains. This includes Ethereum Mainnet, Ethereum Classic, Optimism, Gnosis Chain and many other **Ethereum testnets, private networks, L2s and sidechains**.
 
 See our [project documentation](https://docs.blockscout.com/) for detailed information and setup instructions.
